@@ -1,3 +1,10 @@
+body{
+
+    font-family: 'Work sans';
+
+}
+
+
 btn-grande {
     padding: 6px 25px;
 }
@@ -107,5 +114,18 @@ btn-grande {
 
 .box p {
     font-size: 12px;
+    color: #314584;
+}
+
+#div-secundaria h1{ 
+
+font-weight: bold;   
+
+}
+
+footer{
+
+    text-align: center;
+    font-family: 'work sans';
     color: #314584;
 }
